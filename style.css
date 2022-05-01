@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+
+}
+.container{
+    margin-top: 50px;
+    margin-left: 159px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 50px;
+    
+    width: 1000px;
+    height: 200px;
+}
